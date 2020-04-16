@@ -17,3 +17,7 @@ According to the map, the ladder represents the vision that drives the forces be
 ## Long term
 
 **Expand human cognition** to create meaningful connections within oneself, with others and with the rest of the ecosystem.
+
+<br><br><br>
+
+← [Needs and vision](needs-and-vision.md)

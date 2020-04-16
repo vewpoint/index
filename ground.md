@@ -70,3 +70,7 @@ To keep a project alive, the people working on the project need to sustain thems
 This is not a priority at this time because I was able to optimize my lifestyle by reducing my financial dependencies, and thus continue to work full time with only savings, for a few more months.
 
 This need will become more urgent as time goes by, and I have already begun to evaluate some strategies, but I will not develop them further now.
+
+<br><br><br>
+
+← [Needs and vision](needs-and-vision.md)
