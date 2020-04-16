@@ -47,7 +47,7 @@ I need to put my ideas into words, transform them into something that can be sha
 
 ## Need to be efficient
 
-I am committed to the project, I have a clear vision of where I am going and I am being constant in my actions. Now I need to keep the ball rolling. I want to be efficient, I need to find a good balance about where I invest my time and energy.
+I am committed to the project, I have a clear vision of where I am going and I am being constant in my actions. Now I need to keep the ball rolling. If I want to be efficient, I need to find a good balance about where I invest my time and energy.
 
 ###### Why it is important 
 
