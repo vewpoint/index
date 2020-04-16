@@ -4,9 +4,11 @@ The goal for this text is to provide context for a better understanding of curre
 
 With this text I am going to explain briefly the process of discovery I went through that brings me here, through the lens of the needs I had (and still have), the conclusions I reached, the current needs of the project and those I will have in a near future, and finally, the vision I established as a guide to follow with Vewpoint.
 
-I drew a map as a visual reference for the story I'm about to tell. Use the outline below to navigate between sections.
+I drew a map as a visual reference for the story I'm about to tell.
 
 ![map](needs-and-vision.jpg)
+
+## Index
 
 - [**The funnels**](funnels.md) *(a look into the past)*
     - Level 3
@@ -27,5 +29,9 @@ I drew a map as a visual reference for the story I'm about to tell. Use the outl
     - Short term: Connect the web differently
     - Mid term: Empower people
     - Long term: Expand human cognition
+
+<br>
+
+Use the links in the index to navigate between sections.
 
 This is an overview, dependant on the present moment, meaning that it will be evolving with the new needs for the project. Future complementary texts will tackle some of the topics mentioned here more in-depth.
