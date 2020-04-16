@@ -68,6 +68,10 @@ The good news is that I am not alone. I share the same needs as others. The miss
 
 <br><br><br>
 
+← [Needs and vision](needs-and-vision.md)
+
+<br><br><br>
+
 ---
 
 [1] "EVERYTHING IS DEEPLY INTERTWINGLED. In an important sense there are no "subjects" at all; there is only all knowledge, since the cross-connections among the myriad topics of this world simply cannot be divided up neatly." - [Ted Nelson](https://en.wikipedia.org/wiki/Intertwingularity).
