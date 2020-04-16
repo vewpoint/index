@@ -98,3 +98,7 @@ The good news is that I am not alone. I share the same needs as others. The miss
 
 [12] "Any serious effort to make the world better would require some kind of organized effort that harnessed the collective human intellect of all people to contribute to effective solutions". 
 Guiding philosophy for [Douglas Engelbart](https://en.wikipedia.org/wiki/Douglas_Engelbart#Guiding_philosophy), an early computer and internet pioneer.
+
+<br><br><br>
+
+← [Needs and vision](needs-and-vision.md)
