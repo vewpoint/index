@@ -32,7 +32,7 @@ I've been exploring the intersection of these two fields, through the lens of ar
 
 We have access to an unimaginable amount of information and the enormous latent potential that resides in it, but we do not have the right tools to manage and relate to all this information, which silently takes us away from the possibility of transforming information into useful understanding for our lives <sup>[4]</sup>.
 
-The idea of "information is power", widely promoted in the tech industry, establishes the deceptive perception that the power is in the hands of the users when the reality is far from that <sup>[5]</sup>.
+The idea of "information is power" <sup>[5]</sup>, widely promoted in the tech industry, establishes the deceptive perception that the power is in the hands of the users when the reality is far from that.
 
 Information is not power. The capacity to process information, mainly under the control of large technology companies, is power <sup>[6]</sup>.
 
