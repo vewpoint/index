@@ -2,17 +2,17 @@
 
 ![map](needs-and-vision.jpg)
 
-## The funnels
+# The funnels
 
 I am using the idea of a funnel to illustrate the progression I did from a stage of research and exploration, an overwhelming wild west full of ideas and feelings, to a stage of clarity and concision, required to take a step forward and repeat the cycle again.
 
 Each funnel represents two stages. The first stage deals with the needs I had at the time, the second stage compiles the conclusions I reached before moving on to the next stage.
 
-### Level 3
+## Level 3
 
-#### Need: Cognitive needs + human behavior + digital information.
+### Need: Cognitive needs + human behavior + digital information.
 
-##### Human need to know, to understand.
+#### Human need to know, to understand.
 
 Like any other human being, I'm trying to make sense of reality. Each of us approaches this fundamental need in a particular way, at different intensities, investing more or less energy and attention in it.
 
@@ -20,7 +20,7 @@ I just want to understand better what is going on. Understand myself, the others
 
 What I am describing has a name. It is called need for cognition <sup>[2]</sup>, and Maslow classified it as the first of all growth needs <sup>[3]</sup>.
 
-##### Personal context: human behavior + digital information.
+#### Personal context: human behavior + digital information.
 
 The universal needs of society, when applied to the individual, are colored differently, depending on the particular experiences and context, influencing the motivations that lead to the final behavior.
 
@@ -28,7 +28,7 @@ The two big modifiers I can identify in my personal case are (1) my fascination 
 
 I've been exploring the intersection of these two fields, through the lens of art and design, critically questioning the opportunities and challenges resulting from our collective transition towards a digital society.
 
-#### Conclusion: The capacity to process information is power.
+### Conclusion: The capacity to process information is power.
 
 We have access to an unimaginable amount of information and the enormous latent potential that resides in it, but we do not have the right tools to manage and relate to all this information, which silently takes us away from the possibility of transforming information into useful understanding for our lives <sup>[4]</sup>.
 
@@ -36,23 +36,23 @@ The idea of "information is power", widely promoted in the tech industry, establ
 
 Information is not power. The capacity to process information, mainly under the control of large technology companies, is power <sup>[6]</sup>.
 
-### Level 2
+## Level 2
 
-#### Need: Process information differently.
+### Need: Process information differently.
 
 Hacking into the existing tools, using them in unexpected ways, allowed me to explore, understand and finally become more aware of the mechanisms behind their design <sup>[7]</sup>.
 
 Behavioral design <sup>[8]</sup> is applied when creating such tools, but it can also be applied to your own life <sup>[9]</sup>. Changing your behavior outside the screens has its own complexity. The formation and maintenance of habits is a whole field, for example.
 
-#### Conclusion: Create your own tools.
+### Conclusion: Create your own tools.
 
 It is now clear to me how the design of a digital tool can influence the behavior of its users <sup>[10]</sup>.
 
 If I disagree with the proposed behavior, I can fight or run. I can think of strategies to help me not assimilate an unwanted behavior, or simply stop using the tool in question. If the tool in question plays a major role in my life, running is not an option and constantly struggling could be exhausting. Why not, then, create my own tool from scratch?
 
-### Level 1
+## Level 1
 
-#### Need: Transform ideas into a usable tool.
+### Need: Transform ideas into a usable tool.
 
 I love to create. I enjoy programming because it is a very versatile medium, but I am not and do not want to become a specialist in it. 
 
@@ -60,7 +60,7 @@ I am good at connecting, generating new relationships from existing ideas. My ta
 
 Until now, what I have wanted to communicate could remain a prototype. This time is not the case. To make sense it has to be integrated with the person's behavior, and to become part of the day-to-day, it has to be useful.
 
-#### Conclusion: I can not do it alone. I am not alone.
+### Conclusion: I can not do it alone. I am not alone.
 
 I have been working on it long enough <sup>[11]</sup> to realize that what I want to achieve is too much for only one person <sup>[12]</sup>. A small but complete tool requires the experience and perspective from different profiles, if I really want it well done.
 
