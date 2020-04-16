@@ -2,13 +2,13 @@
 
 ![map](needs-and-vision.jpg)
 
-## Ground
+# Ground
 
 Here is where I am now. The goal, my mission, is to keep moving forward to unexplored terrain. On the way I will encounter obstacles, quicksand that will slow me down and chasms that I will find a way to cross.
 
 These are my current needs, ordered by priority, structured by why they are important, how I am approaching them and what can you do to help me or participate in the process. 
 
-### Need to express myself
+## Need to express myself
 
 I need to put my ideas into words, transform them into something that can be shared and discussed with others.
 
@@ -27,7 +27,7 @@ I need to put my ideas into words, transform them into something that can be sha
 - Point out to what you think is wrong or where you disagree. Be constructive, share your point of view. 
 - Be patient. Right now there is only one human working on it. Progress will be slow but steady.
 
-### Need to expose Vewpoint
+## Need to expose Vewpoint
 
 ###### Why it is important
 
@@ -45,7 +45,7 @@ I need to put my ideas into words, transform them into something that can be sha
     - **curious people** interested in the project, predisposed to provide feedback and support.
 - It's very easy to overload others with information when you're excited about something. Keep this in mind when sharing and remember, there is only one human working on it, trying to be efficient.
 
-### Need to be efficient
+## Need to be efficient
 
 I am committed to the project, I have a clear vision of where I am going and I am being constant in my actions. Now I need to keep the ball rolling. I want to be efficient, I need to find a good balance about where I invest my time and energy.
 
@@ -63,7 +63,7 @@ I am committed to the project, I have a clear vision of where I am going and I a
 
 - If you see me losing my balance, please, let me know.
 
-### Need to make Vewpoint economically sustainable
+## Need to make Vewpoint economically sustainable
 
 To keep a project alive, the people working on the project need to sustain themselves financially, via other sources or through the project itself. My approach is the latter.
 
