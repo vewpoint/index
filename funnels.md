@@ -34,7 +34,7 @@ We have access to an unimaginable amount of information and the enormous latent 
 
 The idea of "information is power" <sup>[5]</sup>, widely promoted in the tech industry, establishes the deceptive perception that the power is in the hands of the users when the reality is far from that.
 
-Information is not power. The capacity to process information, mainly under the control of large technology companies, is power <sup>[6]</sup>.
+**Information is not power**. The capacity to process information, mainly under the control of large technology companies, is power <sup>[6]</sup>.
 
 ## Level 2
 
