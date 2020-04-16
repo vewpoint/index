@@ -57,7 +57,7 @@ I am committed to the project, I have a clear vision of where I am going and I a
 
 ###### How I am approaching it
 
-- I will try different systems to keep track of progress so that I can be more systematic in reviewing and planning.
+- I will try different systems to keep track of progress <sup>[[log](https://github.com/vewpoint/log)]</sup> so that I can be more systematic in reviewing and planning.
 
 ###### What can you do to help me or participate in the process
 
