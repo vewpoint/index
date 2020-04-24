@@ -1,5 +1,6 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200424` | Mails and research. What is information? |
 | `200423` | Mails and research. |
 | `200422` | Mails. Start a draft for what Vewpoint understands by information, how we should relate to it and why. |
 | `200421` | Research day. Mails and messages. |
