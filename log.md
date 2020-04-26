@@ -1,5 +1,7 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200426` | Mails and continue coding for the markdown experiment. |
+| `200425` | Start new experiment, markdown file as a container for a piece of information (content) + its metadata (context). |
 | `200424` | Mails and research. What is information? |
 | `200423` | Mails and research. |
 | `200422` | Mails. Start a draft for what Vewpoint understands by information, how we should relate to it and why. |
