@@ -1,5 +1,7 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200428` | Tired. Feel I need perspective again. Rest. |
+| `200427` | Coding. |
 | `200426` | Mails and continue coding for the markdown experiment. |
 | `200425` | Start new experiment, markdown file as a container for a piece of information (content) + its metadata (context). |
 | `200424` | Mails and research. What is information? |
