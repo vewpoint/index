@@ -1,5 +1,6 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200429` | Planning and evaluation for next steps. |
 | `200428` | Tired. Feel I need perspective again. Rest. |
 | `200427` | Coding. |
 | `200426` | Mails and continue coding for the markdown experiment. |
