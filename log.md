@@ -1,5 +1,6 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200430` | I'm beginning to feel the pressure to make Vewpoint economically sustainable, so I'm starting to deploy the first strategy to address this need. |
 | `200429` | Planning and evaluation for next steps. |
 | `200428` | Tired. Feel I need perspective again. Rest. |
 | `200427` | Coding. |
