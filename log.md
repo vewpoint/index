@@ -1,5 +1,6 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200506` | Reviewing old presentations to see what I can re-use. |
 | `200505` | Start draft for a video to introduce myself in Patreon. |
 
 <br>
