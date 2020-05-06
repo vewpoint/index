@@ -1,5 +1,18 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200505` | Start draft for a video to introduce myself in Patreon. |
+
+<br>
+
+#### In order to reach more people, to be able to interact with other perspectives and at the same time make the project sustainable, I decided to start a Patreon page. It makes sense to me to give it a try. 
+#### The project requires visibility, which means that I need to start exposing myself in a more systematic way asap. So, it's time to stop for a while, put everything I have done together, present it, present myself and introduce the project properly, and then, get back and continue from where I am now. <sup>`200506`</sup>
+
+<br>
+
+| `YYMMDD` | log |
+| -------- | :--- |
+| `200504` | Rest. |
+| `200503` | Rest. |
 | `200502` | Writing and researching. |
 | `200501` | Writing. |
 | `200430` | I'm beginning to feel the pressure to make Vewpoint economically sustainable, so I'm starting to deploy the first strategy to address this need. |
