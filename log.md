@@ -1,5 +1,6 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200507` | Working on the draft. Evaluating other platforms as alternatives to Patreon or to complement it. |
 | `200506` | Reviewing old presentations to see what I can re-use. |
 | `200505` | Start draft for a video to introduce myself in Patreon. |
 
