@@ -1,5 +1,6 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200507` | First part of the script for the video, finished. I expect to condense in the final video 10 years of work into a 1 minute or so. |
 | `200507` | Working on the draft. Evaluating other platforms as alternatives to Patreon or to complement it. Buymyacoffee is a reasonable candidate. |
 | `200506` | Reviewing old presentations to see what I can re-use. |
 | `200505` | Start draft for a video to introduce myself in Patreon. |
