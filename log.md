@@ -1,5 +1,6 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200511` | Deep dig into Roam. |
 | `200510` | Doing research on Roam, discovery via Brett. |
 | `200509` | I think that the structure for the second part is clear. |
 | `200508` | First part of the script for the video, finished. I expect to condense in the final video 10 years of work into a 1 minute or so. |
