@@ -1,5 +1,6 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200512` | Go back to writing the script for the video. Stucked into translating the structure outlined the other day for the second part into a coherent and meaningful narrative. |
 | `200511` | Deep dig into Roam. |
 | `200510` | Doing research on Roam, discovery via Brett. |
 | `200509` | I think that the structure for the second part is clear. |
