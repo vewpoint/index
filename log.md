@@ -1,5 +1,6 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200515` | Writing and editing. Solid draft introducing my work till "Follow". |
 | `200514` | Go back to writing the script and dedicate some time to continue editing the first part of the video. |
 | `200513` | To break the writing block, I start playing with the video montage. |
 | `200512` | Go back to writing the script for the video. Stucked into translating the structure outlined the other day for the second part into a coherent and meaningful narrative. |
