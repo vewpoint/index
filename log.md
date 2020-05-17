@@ -1,5 +1,7 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200517` | Search soundtrack for the video + start edit for the part of the video explaining the experience with "Follow". |
+| `200516` | Review and organize material from "Follow". |
 | `200515` | Writing and editing. Solid draft introducing my work till "Follow". |
 | `200514` | Go back to writing the script and dedicate some time to continue editing the first part of the video. |
 | `200513` | To break the writing block, I start playing with the video montage. |
