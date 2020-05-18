@@ -1,5 +1,6 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200518` | Rest. |
 | `200517` | Search soundtrack for the video + start edit for the part of the video explaining the experience with "Follow". |
 | `200516` | Review and organize material from "Follow". |
 | `200515` | Writing and editing. Solid draft introducing my work till "Follow". |
