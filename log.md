@@ -1,5 +1,7 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200522` | Same as yesterday. |
+| `200521` | Attempt to overview the current status and more training in front of the camera. |
 | `200520` | Halfway through the making of the video. Frustrated (again) with how we protect intellectual property instead of encouraging intellectual/creative development. A small bump in the road that triggered the larger block of making Vewpoint economically sustainable. Training begins to get me used to recording myself talking to the camera. |
 | `200519` | Rest. |
 | `200518` | Rest. |
