@@ -1,5 +1,7 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200524` | Working on the script. |
+| `200523` | Post-it's mode in order to understand the block and decide next steps. Stop the training in front of the camera, it's not a priority. I need to finish the script for the video first and foremost. |
 | `200522` | Same as yesterday. |
 | `200521` | Attempt to overview the current status and more training in front of the camera. |
 | `200520` | Halfway through the making of the video. Frustrated (again) with how we protect intellectual property instead of encouraging intellectual/creative development. A small bump in the road that triggered the larger block of making Vewpoint economically sustainable. Training begins to get me used to recording myself talking to the camera. |
