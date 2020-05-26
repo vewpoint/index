@@ -1,5 +1,7 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200526` | Good news: there is progress in the draft for the script, bad news: the video is starting to get too big, good news again: I think I found a formula to keep moving forward without being overwhelmed. I give myself a couple of days to digest it before I change gears. |
+| `200525` | Explore open resources for the video and start experimenting with Openmoji. |
 | `200524` | Working on the script. |
 | `200523` | Post-it's mode in order to understand the block and decide next steps. Stop the training in front of the camera, it's not a priority. I need to finish the script for the video first and foremost. |
 | `200522` | Same as yesterday. |
