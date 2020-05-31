@@ -6,7 +6,7 @@
 
 | `YYMMDD` | log |
 | -------- | :--- |
-| `200530` | IG: "Platforms designed to increase revenue." |
+| `200530` | IG: "Products to improve our digital experience, but designed to increase revenue." |
 | `200529` | First capsule in IG. "I am here to share where I come from, where I am and where I am going." |
 | `200528` | The strategy to tackle the complexity of the video seems a good option. Start the draft for the first capsules. |
 | `200527` | Research and videocall with Marc-Antoine. |
