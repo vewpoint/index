@@ -1,6 +1,6 @@
 ### Platforms designed to increase revenue.
 
-![Posted in Instagram.](1.jpg)
+![Posted in Instagram.](compo.jpg)
 
 Hi IG. This is how you see me, this is what I am for you. Metrics, statistics, graphs in reports. Another profile, another user.
 
