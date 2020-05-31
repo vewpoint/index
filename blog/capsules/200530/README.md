@@ -1,4 +1,4 @@
-### Platforms designed to increase revenue.
+### Products to improve our digital experience, but designed to increase revenue.
 
 ![Posted in Instagram.](compo.jpg)
 

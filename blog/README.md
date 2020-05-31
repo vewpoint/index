@@ -7,4 +7,4 @@ In order to explain the context, process and status of the research I will explo
 | `YYMMDD` | List of capsules shared in IG. |
 | -------- | :--- |
 | `200529` | [I am here to share where I come from, where I am and where I am going.](capsules/200529) |
-| `200530` | [Platforms designed to increase revenue.](capsules/200530) |
+| `200530` | [Products to improve our digital experience, but designed to increase revenue.](capsules/200530) |
