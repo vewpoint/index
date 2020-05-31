@@ -1,6 +1,7 @@
 | `YYMMDD` | log |
 | -------- | :--- |
-| `200529` | First capsule in IG. |
+| `200530` | IG: "Platforms designed to increase revenue." |
+| `200529` | First capsule in IG. "I am here to share where I come from, where I am and where I am going." |
 | `200528` | The strategy to tackle the complexity of the video seems a good option. Start the draft for the first capsules. |
 | `200527` | Research and videocall with Marc-Antoine. |
 | `200526` | Good news: there is progress in the draft for the script, bad news: the video is starting to get too big, good news again: I think I found a formula to keep moving forward without being overwhelmed. I give myself a couple of days to digest it before I change gears. |
