@@ -9,4 +9,4 @@ In order to explain the context, process and status of the research I will explo
 | `200529` | [I am here to share where I come from, where I am and where I am going.](capsules/200529) |
 | `200530` | [Products to improve our digital experience, but designed to increase revenue.](capsules/200530) |
 | `200531` | [Is it possible to change the paradigm that is constraining what it means to be digital?](capsules/200531) |
-| `200601` | [My fascination with human behavior begins in 2008.](capsules/200601) |
+| `200602` | [My fascination with human behavior begins in 2008.](capsules/200602) |
