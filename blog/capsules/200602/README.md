@@ -8,7 +8,7 @@ I think it is important to start the story providing a bit of context.
 
 💁🏻‍♂️
 
-2008. I set up an interaction design studio with some friends, and we started to create interactive installations in physical spaces.⁣
+**2008**. I set up an interaction design studio with some friends, and we started to create interactive installations in physical spaces.⁣
 ⁣
 We were amazed by how people interacted with our installations, and we realized that our interest was on designing for what was happening in front of the screen, not inside of it.⁣
 ⁣
