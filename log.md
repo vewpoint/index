@@ -1,5 +1,6 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200602` | Deliver first capsule in video format. |
 | `200601` | First day failing to deliver a capsule. Here the lesson I learned: Do not share a capsule before delivering it because you can always change things to make it better. A finished capsule does not mean a perfect capsule or a capsule that can not be improved. A finished capsule means a capsule that has been delivered at some point, a capsule that can be shared, a capsule that represents the best effort at some point in time. If you are open to iterate with unfinished capsules, you are open to iterate with a piece that can not be openly shared. The strategy to encapsulate information is meant to facilitate a certain type of dialog. Another kind of dialog can happen with an unfinished capsule on the table (this is exactly the internal process I do with myself when working on a capsule), what I am just saying without writing much more is that today's experience had the opposite effect as the desired for the strategy of committing to deliver a capsule daily. |
 | `200531` | Create a replica on GitHub for the action happening on IG + post of the day. |
 
