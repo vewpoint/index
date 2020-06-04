@@ -1,6 +1,6 @@
-### Products to improve our digital experience, but designed to increase revenue.
-
 ![Posted in Instagram.](compo.jpg)
+
+# Products to improve our digital experience, but designed to increase revenue.
 
 Hi IG. This is how you see me, this is what I am for you. Metrics, statistics, graphs in reports. Another profile, another user.
 

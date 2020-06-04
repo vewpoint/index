@@ -1,8 +1,8 @@
-### How do we relate to technology and through it, to others?
-
 ![Posted in Instagram.](compo.jpg)
 
 *Watch the video for this post in [English](https://youtu.be/HDw3ZGR1gFw) or [Spanish](https://youtu.be/cI-0hRDjgxM).*
+
+# How do we relate to technology and through it, to others?
 
 ### 2013
 

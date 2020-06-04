@@ -1,7 +1,6 @@
-
-### I am here to share where I come from, where I am and where I am going.
-
 ![Posted in Instagram.](compo.jpg)
+
+# I am here to share where I come from, where I am and where I am going.
 
 Hi IG. Last time I was using you I was trying to establish a new relationship with you. I remember I was trying to use you to put some order inside my head, to trigger conversations and create new connections by exposing myself in a more organized way.⁣
 

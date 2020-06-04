@@ -1,6 +1,6 @@
-### Is it possible to change the paradigm that is constraining what it means to be digital?
-
 ![Posted in Instagram.](compo.jpg)
+
+# Is it possible to change the paradigm that is constraining what it means to be digital?
 
 Playing with you, in your playground, I've grown up.
 
