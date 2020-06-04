@@ -10,3 +10,4 @@ In order to explain the context, process and status of the research I will explo
 | `200530` | [Products to improve our digital experience, but designed to increase revenue.](capsules/200530) |
 | `200531` | [Is it possible to change the paradigm that is constraining what it means to be digital?](capsules/200531) |
 | `200602` | [My fascination with human behavior begins in 2008.](capsules/200602) |
+| `200604` | [How do we relate to technology and through it, to others?](capsules/200604) |
