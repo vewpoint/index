@@ -1,5 +1,6 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200606` | Deliver third video capsule. |
 | `200605` | Work on the script for the next capsules. |
 | `200604` | Second video capsule + add spanish version to the first one. |
 | `200603` | The computer crashed at the end of the day, losing all the work done today editing video. |
