@@ -1,5 +1,6 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200607` | Low intensity day. Start collecting material for the next capsule. |
 | `200606` | Deliver third video capsule. |
 | `200605` | Work on the script for the next capsules. |
 | `200604` | Second video capsule + add spanish version to the first one. |
