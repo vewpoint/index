@@ -2,7 +2,7 @@
 
 *Watch the video for this post in [English](https://youtu.be/S13tjz6TKek) or [Spanish](https://youtu.be/HI_gzeUWiz0).*
 
-# My fascination with human behavior begins in 2008.
+# I am fascinated by human behavior.
 
 I think it is important to start the story providing a bit of context.
 
