@@ -1,5 +1,6 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200610` | Deliver fifth video capsule. |
 | `200609` | Moving the blog mirror of Instagram from GitHub to Airtable. |
 | `200608` | Deliver fourth video capsule. |
 | `200607` | Low intensity day. Start collecting material for the next capsule. |
