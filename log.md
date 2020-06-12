@@ -1,5 +1,6 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200612` | Plan for the next batch of posts. |
 | `200611` | Day of cleaning all the mess with files, notes and ideas till now. |
 | `200610` | Deliver fifth video capsule. |
 | `200609` | Moving the blog mirror of Instagram from GitHub to Airtable. |
@@ -15,7 +16,7 @@
 
 <br>
 
-#### I've been working on a video to introduce myself and the project, to use in Patreón, but I got blocked when I started to tell the most recent work and the current state of the project, which makes sense, since the project itself is in the process of defining itself.
+#### I've been working on a video to introduce myself and the project, to use in Patreon, but I got blocked when I started to tell the most recent work and the current state of the project, which makes sense, since the project itself is in the process of defining itself.
 #### In light of this, I have changed my strategy and will follow a similar procedure to the one I used to attack [The Hyperlink Delusion](https://danielarmengolaltayo.github.io/hyperlink/). 
 #### In short, divide into smaller capsules, to be delivered periodically, as a [blog](blog). <sup>`200531`</sup>
 
