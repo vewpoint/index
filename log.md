@@ -1,5 +1,6 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200613` | About text for Patreon. Bilingual. Playing with the concept of multiple perspectives of the same reality in Processing using old footage. |
 | `200613` | Before starting with the next batch, I want to have the Patreon page set. I've been working on this today. To complement what is going to be in the Patreon page I plan to create a basic page, using the structure for Pandemos, to accumulate the progress of the story in one place I have control on how it is rendered, and leave IG for more WIP, experiments and tests. |
 | `200612` | Plan for the next batch of posts. |
 | `200611` | Day of cleaning all the mess with files, notes and ideas till now. |
