@@ -1,5 +1,15 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200626` | Back to work, but not yet on what I left unfinished, but to put some order and plan. |
+| `200625` | Rest. |
+| `200624` | Rest. |
+| `200623` | Rest. |
+| `200622` | Rest. |
+| `200621` | Rest. |
+| `200620` | Rest. |
+| `200619` | Rest. |
+| `200618` | After months of confinement, from today I can receive visitors and travel to meet family and friends. I am going to take some days for that and rest. |
+| `200617` | More and more of the same. |
 | `200616` | Webpage. More on code and content. |
 | `200615` | Same as yesterday plus some time coding the webpage where to put all progress from now on. Pondering if substitute the main page of Vewpoint with it. |
 | `200614` | About text for Patreon. Bilingual. Playing with the concept of multiple perspectives of the same reality in Processing using old footage. |
