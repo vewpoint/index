@@ -1,5 +1,6 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200626` | Webpage. Code and content. Almost finished. |
 | `200626` | Back to work, but not yet on what I left unfinished, but to put some order and plan. |
 | `200625` | Rest. |
 | `200624` | Rest. |
