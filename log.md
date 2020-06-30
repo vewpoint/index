@@ -1,5 +1,6 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200630` | Tired, but the new version for the webpage is online now. Patreon and Buy Me A Coffee too. |
 | `200629` | Finally, the webpage is done. Bilingual. Content in English and Spanish. Coming next: Patreon + Buy Me A Coffee pages. |
 | `200628` | Same as yesterday. |
 | `200627` | Webpage. Code and content. Almost finished. |
