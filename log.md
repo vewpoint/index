@@ -1,5 +1,6 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200701` | Add lazy loading for the images in the website. Invest some time to evaluate an art call. Artistic grants are another strategy I think worth the time to explore in order to provide financial support to the project. |
 | `200630` | Tired, but the new version for the webpage is online now. Patreon and Buy Me A Coffee too. |
 | `200629` | Finally, the webpage is done. Bilingual. Content in English and Spanish. Coming next: Patreon + Buy Me A Coffee pages. |
 | `200628` | Same as yesterday. |
