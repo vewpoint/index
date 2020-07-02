@@ -1,3 +1,7 @@
+#### Last month I focused on creating the first batch of capsules in order to introduce myself, moved the replica of the blog from GitHub to the website, update its contents, make it bilingual, launched a couple crowdfunding pages (Patreon and Buy Me A Coffee) and plan for the next batch of capsules where I will transition from the experience I had with Follow, a performance I did a couple of years ago, to the conclusions that set the base for what I want to achieve with Vewpoint. <sup>`200702`</sup>
+
+<br>
+
 | `YYMMDD` | log |
 | -------- | :--- |
 | `200701` | Add lazy loading for the images in the website. Invest some time to evaluate an art call. Artistic grants are another strategy I think worth the time to explore in order to provide financial support to the project. |
