@@ -1,5 +1,8 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200705` | Rest. |
+| `200704` | Rest. |
+| `200703` | Today felt very unproductive. Challenges to overcome are not only outside oneself. Context and external personal situations influence what we can do, but also our inner configuration, fears, insecurities or mood, just to mention some. |
 | `200702` | Search for more open calls. Start filling the application form for The Digital Earth Fellowship 2020 - 2021. |
 
 <br>
