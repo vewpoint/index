@@ -1,7 +1,7 @@
 | `YYMMDD` | log |
 | -------- | :--- |
-| `200705` | Rest. |
-| `200704` | Rest. |
+| `200709` | Working on the proposal text for TDEF. |
+| `200707` | Draft for the first part of the TDEF application. |
 | `200703` | Today felt very unproductive. Challenges to overcome are not only outside oneself. Context and external personal situations influence what we can do, but also our inner configuration, fears, insecurities or mood, just to mention some. |
 | `200702` | Search for more open calls. Start filling the application form for The Digital Earth Fellowship 2020 - 2021. |
 
@@ -19,13 +19,6 @@
 | `200628` | Same as yesterday. |
 | `200627` | Webpage. Code and content. Almost finished. |
 | `200626` | Back to work, but not yet on what I left unfinished, but to put some order and plan. |
-| `200625` | Rest. |
-| `200624` | Rest. |
-| `200623` | Rest. |
-| `200622` | Rest. |
-| `200621` | Rest. |
-| `200620` | Rest. |
-| `200619` | Rest. |
 | `200618` | After months of confinement, from today I can receive visitors and travel to meet family and friends. I am going to take some days for that and rest. |
 | `200617` | More and more of the same. |
 | `200616` | Webpage. More on code and content. |
@@ -67,8 +60,6 @@
 | `200522` | Same as yesterday. |
 | `200521` | Attempt to overview the current status and more training in front of the camera. |
 | `200520` | Halfway through the making of the video. Frustrated (again) with how we protect intellectual property instead of encouraging intellectual/creative development. A small bump in the road that triggered the larger block of making Vewpoint economically sustainable. Training begins to get me used to recording myself talking to the camera. |
-| `200519` | Rest. |
-| `200518` | Rest. |
 | `200517` | Search soundtrack for the video + start edit for the part of the video explaining the experience with "Follow". |
 | `200516` | Review and organize material from "Follow". |
 | `200515` | Writing and editing. Solid draft introducing my work till "Follow". |
@@ -92,8 +83,6 @@
 
 | `YYMMDD` | log |
 | -------- | :--- |
-| `200504` | Rest. |
-| `200503` | Rest. |
 | `200502` | Writing and researching. |
 | `200501` | Writing. |
 | `200430` | I'm beginning to feel the pressure to make Vewpoint economically sustainable, so I'm starting to deploy the first strategy to address this need. |
