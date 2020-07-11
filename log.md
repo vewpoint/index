@@ -1,5 +1,7 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200711` | Same again. The exercise is making evident the need for a new structure in the current website. I can and I should explain better what I am doing. |
+| `200710` | Same as yesterday. |
 | `200709` | Working on the proposal text for TDEF. |
 | `200707` | Draft for the first part of the TDEF application. |
 | `200703` | Today felt very unproductive. Challenges to overcome are not only outside oneself. Context and external personal situations influence what we can do, but also our inner configuration, fears, insecurities or mood, just to mention some. |
