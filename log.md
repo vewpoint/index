@@ -1,5 +1,7 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200713` | Finished application for TDEF but I give myself a couple of days to review it before submitting it. |
+| `200712` | The draft for TDEF is now complete but in spanish. |
 | `200711` | Same again. The exercise is making evident the need for a new structure in the current website. I can and I should explain better what I am doing. |
 | `200710` | Same as yesterday. |
 | `200709` | Working on the proposal text for TDEF. |
