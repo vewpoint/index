@@ -1,5 +1,9 @@
 | `YYMMDD` | log |
 | -------- | :--- |
+| `200722` | Same as yesterday. |
+| `200721` | Search for more fellowships, grants and other financial opportunities from art world. |
+| `200716` | Submit the application for TDEF. |
+| `200715` | Review it. |
 | `200713` | Finished application for TDEF but I give myself a couple of days to review it before submitting it. |
 | `200712` | The draft for TDEF is now complete but in spanish. |
 | `200711` | Same again. The exercise is making evident the need for a new structure in the current website. I can and I should explain better what I am doing. |
