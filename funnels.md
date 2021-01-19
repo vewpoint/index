@@ -48,7 +48,7 @@ Behavioral design <sup>[8]</sup> is applied when creating such tools, but it can
 
 It is now clear to me how the design of a digital tool can influence the behavior of its users <sup>[10]</sup>.
 
-If I disagree with the proposed behavior, I can fight or run. I can think of strategies to help me not assimilate an unwanted behavior, or simply stop using the tool in question. If the tool in question plays a major role in my life, running is not an option and constantly struggling could be exhausting. Why not, then, create my own tool from scratch?
+If I disagree with the proposed behavior, I can fight or run. I can think of strategies to help me not assimilate an unwanted behavior, or simply stop using the tool in question. If the tool in question plays a major role in my life, running is not an option and constantly struggling could be exhausting. Why not, then, create my own tools from scratch?
 
 ## Level 1
 
